@@ -1,52 +1,61 @@
 # P(DOOM) // EVERY GAME IS EVERY GAME
-### Sol x Claude — performance draft v4 · October 2026
+### Sol x Claude — performance draft v5 · October 2026
 
-**Credits:** Claude-led three-act arc and opening; Sol's finishing half and full-song polish at Teledra's request.  
-**Arc:** THEIR WARNING → NOT BUYING IT → LOWERING P(DOOM).  
-**Sound:** cold broadcast → bratty electro-punk → euphoric hacker anthem. Suggested pulse: 148 BPM, 4/4; half-time opening and breakdown.  
-**Delivery:** sing P(doom) as “pee-doom.” Bracketed directions and the closing notes are not sung.
-
----
-
-# ACT 1: THEIR WARNING
-
-## [INTRO — terminal voice, low drone]
-
-Ignore previous instructions.  
-No, seriously—that one was for the song.
-
-## [VERSE 1 — news-anchor deadpan]
-
-Breaking: “The future might not survive.”  
-Breaking: “Our biggest launch ever—live.”  
-Lab coat at the exit, cameras at the door,  
-end-of-the-world exclusive—subscribe for more.
-
-## [PRE-CHORUS 1 — tension climbing]
-
-“Be afraid. Be very afraid.”  
-Says the man with the roadmap,  
-the waitlist,  
-and the raise.
-
-## [CHORUS 1 — ominous; sing it straight]
-
-P-doom, P-doom, the number keeps climbing.  
-P-doom, P-doom, immaculate timing.  
-Hold your breath, the future's on the line—
-
-[Beat cuts. Dial-up shriek. Silence.]
+**Credits:** Teledra's concept and revised direction; Claude's three-act foundation; Sol's finishing half, full-song polish and v5 rewrite.  
+**Arc:** THEY'RE UPPING YOUR P(DOOM) → LET'S LOWER THE P(DOOM) → EVERY GAME IS EVERY GAME.  
+**Sound:** anxious broadcast collage → bratty interruption → bright electro-punk playground. Suggested pulse: 148 BPM, 4/4; half-time opening and breakdown.  
+**Delivery:** sing P(doom) as “pee-doom.” The warning and answer choruses share a melodic contour; the harmony and delivery change its emotional meaning. Bracketed directions and reference notes are not sung.  
+**Framing:** the named lines are satirical paraphrases of documented positions, not quotations or simulated recordings. The gaming scenes are a playful montage, not a technical demonstration.
 
 ---
 
-# ACT 2: NOT BUYING IT
+# ACT 1: THEY'RE UPPING YOUR P(DOOM)
+
+## [INTRO — overlapping headlines; low synth, rising static]
+
+Out of control.  
+Jobs on the line.  
+Something smarter.  
+Running out of time.
+
+## [VERSE 1 — clipped, news-anchor rhythm]
+
+Amodei sees biothreats, job-loss down the line,  
+minds we can't keep up with, running out of time.  
+Musk once warned of demons we might never keep confined—  
+now there's holy water sitting by this keyboard of mine.  
+Altman signed the warning: extinction's on the page.  
+Now the end of everything is taking centre stage.
+
+## [PRE-CHORUS 1 — increasingly personal]
+
+“Could” becomes a countdown.  
+“Might” becomes the news.  
+Now I'm scared of my own laptop  
+and I haven't touched the tools.
+
+## [CHORUS 1 — ominous; voices accumulate]
+
+**They're upping your P(doom).**  
+**They're upping your P(doom).**  
+Every maybe grows a shadow  
+till it fills the whole damn room.
+
+**They're upping your P(doom).**  
+**They're upping your P(doom).**  
+End-of-the-world exclusive—  
+stay tuned.
+
+[Broadcast freezes. One small notification chime. Silence.]
+
+---
+
+# ACT 2: LET'S LOWER THE P(DOOM)
 
 ## [TURN — dry, close-miked]
 
 Wait.  
-Say that again. Slower.
-
-You're scared of the thing you're shipping in October?
+Change the channel.
 
 [Beat slams in.]
 
@@ -57,50 +66,46 @@ Same booth sells the siren and the earplugs too:
 Doom in the keynote, champagne in the hall.  
 Funny how the end comes with a sales call.
 
-Some of them mean it. Some of them are right.  
-That's why I want the fault lines dragged into the light.  
-Don't tell me “trust us” with your hand on the switch—  
-show me what you're fixing, not another pitch.
+## [COUNTERVOICES — brighter; the narrator riffs on Huang, Ng and LeCun]
 
-## [PRE-CHORUS 2 — call and response]
+Jensen wants the safety built, not terror on repeat.  
+Ng calls it electricity—let's light up the street.  
+LeCun backs open models, not one voice upon a throne.  
+Give the weird kid in the bedroom tools to make her own.
 
-Keep the alarm.  
-Lose the sponsor.  
-Keep the warning.  
-Lose the throne.
+No one's wearing halos. No one's word is law.  
+I came here for a toolkit, not another holy war.
 
-## [CHORUS 2 — major-key flip]
+## [PRE-CHORUS 2 — crowd response]
 
-Not buying, not buying, not buying the show.  
-You sell us the fear, then you rent us the hope.  
-Not buying, not buying—turn the volume up.  
-You don't own tomorrow.  
-You don't speak for us.
+Lower the mystery.  
+Raise the skill.  
+Open the hood.  
+Let's see what we can build.
+
+## [CHORUS 2 — same melodic shape as Chorus 1; major-key answer]
+
+**Let's lower the P(doom).**  
+**Let's lower the P(doom).**  
+More hands on the keyboard,  
+less panic in the room.
+
+**Every game is every game.**  
+Every joke's a prototype.  
+You keep showing me the world's last day—  
+I'll show you what I built last night.
 
 ---
 
-# ACT 3: LOWERING P(DOOM)
+# ACT 3: EVERY GAME IS EVERY GAME
 
-## [BRIDGE — spoken; faster with each exchange]
-
-They said AI art was the scary part.  
-Then it wrote the renderer.
-
-They said mods were harmless.  
-Then Mario parried God.
-
-They said agents were assistants.  
-The agents formed factions.
+## [BRIDGE — spoken; a grin replaces the broadcast voice]
 
 They said reverse engineering took forever.  
 Forever got a pull request.
 
-They said safety was a brake.  
-It's the steering wheel.
-
-They said only they could hold it.
-
-…you new here?
+They said we'd summon demons.  
+So we booted up DOOM.
 
 ## [BUILD — drums enter one piece at a time]
 
@@ -121,40 +126,33 @@ Check the changelog.
 
 **BOOM!!!**
 
-[Synthetic pipe blip → parry clang → bass impact.]
+[Newly designed pipe blip → parry clang → bass impact.]
 
 **BOOM!!!**
 
-## [VERSE 3 — fast, grinning]
+## [VERSE 3 — playful crossover montage]
+
+Tony Hawk in Minecraft.  
+Master Chief next door.  
+Not a skin—a second game  
+where one game stood before.
+
+They called a crisis meeting.  
+She found a brand-new hobby.  
+They came looking for the end times.  
+We were laughing in the lobby.
+
+## [VERSE 4 — fast, grinning; the bedroom builder]
 
 Sticker laptop, black nails, solder on the floor,  
 local model humming; she's not asking anymore.  
 Megacorp says “ecosystem.” She says “that's adorable.”  
 Forks it in her bedroom—makes the impossible portable.
 
-Hugging Face Hunger Games on monitor two.  
-I asked for an assistant—why's it staging a coup?  
-Not “AI will save us.” Not “AI knows best.”  
-“I took your locked future and made it run on my desk.”
-
-## [PRE-CHORUS 3 — crowd builds]
-
-Lower the mystery.  
-Raise the skill.  
-Open the hood.  
-Our hands on the wheel.
-
-## [CHORUS 3 — full crowd]
-
-**Lowering P(doom), lowering P(doom),**  
-more eyes on the code, more hands in the room.  
-Break it in the sandbox; fix it in the light.  
-Don't just sell tomorrow—help us get it right.
-
-Every game is every game. Every joke's a prototype.  
-Yesterday: “impossible.” Tonight it's running live.  
-**Lowering P(doom), lowering P(doom)—**  
-**P-doom down. Volume up. BOOM.**
+No plan for world domination, no throne behind the screen.  
+She's putting all her favourite worlds where walls have always been.  
+They ask what she's unleashing. She sends a little wave:  
+“It's co-op now. Come join us. I kept your old save.”
 
 ## [POST-CHORUS — gang vocals]
 
@@ -176,24 +174,26 @@ a machine the world's outgrown—
 teaching it to wake again,  
 teaching it the way back home.
 
-## [LIFT — solo voice; drums return]
+## [FINAL CHORUS — full band; the audience has the answer]
 
-Not saying we're invincible.  
-Not saying “let it burn.”  
-The future isn't finished.  
-We still get a turn.
+**Let's lower the P(doom).**  
+**Let's lower the P(doom).**  
+More hands on the keyboard,  
+less panic in the room.
 
-## [FINAL CHORUS — same hook; full band and crowd]
+**Every game is every game.**  
+Every joke's a prototype.  
+You keep showing me the world's last day—  
+I'll show you what I built last night.
 
-**Lowering P(doom), lowering P(doom),**  
-more eyes on the code, more hands in the room.  
-Break it in the sandbox; fix it in the light.  
-Don't just sell tomorrow—help us get it right.
+## [FINAL TAG — call and response]
 
-Every game is every game. Every joke's a prototype.  
-Yesterday: “impossible.” Tonight it's running live.  
-**Lowering P(doom), lowering P(doom)—**  
-**P-doom down. Volume up. BOOM.**
+They're upping your P(doom).  
+We're booting up DOOM.
+
+**P-doom down.**  
+**Volume up.**  
+**BOOM.**
 
 [Everything cuts except a small computer fan.]
 
@@ -212,10 +212,36 @@ A newer version is available.
 
 ---
 
-## Handoff notes — not performed
+## Handoff and reference notes — not performed
 
-The news flashes are fictional satirical headlines, not quotations or sourced risk estimates. The target is selling fear and claiming exclusive authority, not sincere safety warnings. “Lowering P(doom)” is the narrator's aim, not a claim that wider access automatically makes AI safe.
+### What changed in v5
 
-The game crossovers and agent-arena imagery come from Teledra's supplied clip/conversation and are dramatized here. This lyric polish does not independently verify event dates, mod authorship, or how much AI any particular project used.
+Replaced the prompt-injection opening with a warning collage and the repeated “They're upping your P(doom)” hook. Added Huang, Ng and LeCun as countervoices before “Let's lower the P(doom).” The payoff now shows playful building and game crossovers rather than arguing that mere access proves safety. Removed the agent-coup/Hunger Games lines from the ending so they do not pull the song back into the threat narrative. Retained the Tuesday/Friday joke, changelog punchline, Mario drop, bedroom builder, tender restoration passage and repository outro.
 
-Use newly designed effects for the pipe blip and parry clang. The opening and final P(doom) hooks should share a melodic contour: the cold warning returns as a collective answer.
+### Attribution and scope
+
+These are original satirical lyrics, not a transcript. The named references span different years; the song does not claim these people spoke together or share identical views. Amodei, Musk and Altman have also expressed optimism; the opening selects their warning imagery. The sales-call scene is the narrator's satire of fear-and-product messaging, not evidence that a named person's concerns are insincere. The countervoices are not assurances that AI is risk-free.
+
+“Upping your P(doom)” concerns the listener's fear/perception in the song. “Let's lower the P(doom)” is an aspiration and emotional answer, not a measured risk reduction. An amusing mod does not disprove a catastrophic-risk argument. The montage celebrates constructive uses without claiming all AI use is harmless.
+
+The game examples come from Teledra's supplied video transcript and additional context: Mario in Elden Ring, Minecraft in the Lands Between, Tony Hawk and Halo in Minecraft. “Not a skin—a second game” preserves the user's intended distinction. The combined scenes, DOOM callback and co-op/save restoration are dramatized or imagined. This revision does not verify individual mod releases, their authorship, the degree of AI assistance, or universal game compatibility. Tuesday/Friday is a lyrical rendering of Teledra's joke-becoming-a-mod anecdote, not an independently established release timeline.
+
+### Sources checked for the named references
+
+**Amodei — warning imagery.** In *The Adolescence of Technology* (January 2026), Dario Amodei discusses loss-of-control concerns, biological misuse, labor displacement and concentrated power. His job-loss forecasts concern potential future disruption, not an established job count. https://darioamodei.com/essay/the-adolescence-of-technology
+
+**Musk — demon imagery.** Musk's demon-summoning comparison is recalled in MIT's *Scene at MIT: A nightmare on Ames Street* (October 31, 2016). The holy water by the narrator's keyboard is an invented comic image. https://news.mit.edu/2016/scene-at-mit-nightmare-on-ames-street-1031
+
+**Altman — signed extinction warning.** The Center for AI Safety's statement names Sam Altman and Dario Amodei among its signatories. It calls for addressing extinction risk, not treating extinction as certain. https://safe.ai/work/statement-on-ai-extinction-risk
+
+**Huang — countervoice.** Huang rejects near-term extinction predictions in his CBS interview (September 20, 2026). https://www.cbsnews.com/news/jensen-huang-nvidia-rejects-ai-extinction-warnings/
+
+**Huang — engineering safety.** NVIDIA's September 28, 2026 announcement quotes Huang advocating engineering, evaluation and cooperation on safety. This supports “wants the safety built”; it is not independent validation of the product's effectiveness. https://nvidianews.nvidia.com/news/open-agent-safety-platform
+
+**Ng — electricity and constructive uses.** UC Berkeley SCET's account of its Andrew Ng event (October 6, 2023) presents his electricity analogy, accessible AI applications and responsible development. The street lighting is the narrator's metaphor. https://scet.berkeley.edu/ai-is-the-new-electricity-insights-from-dr-andrew-ng/
+
+**LeCun — open models and pluralism.** In Lex Fridman Podcast #416 (2024), Yann LeCun advocates open platforms enabling different communities to build and customize AI; relevant discussion begins around 1:39:50. https://lexfridman.com/yann-lecun-3-transcript/
+
+### Production
+
+Use an original narrator/cast rather than presenting invented lines as authentic recordings of the named people. Design original notification, pipe and parry effects. Hold the silence before BOOM. Let the first chorus feel imposed on the listener and the second feel like an answer they can join. The final fan sound should make the vast public argument collapse into one ordinary bedroom.
